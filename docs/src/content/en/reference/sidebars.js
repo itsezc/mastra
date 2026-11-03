@@ -805,6 +805,7 @@ const sidebars = {
         { type: 'doc', id: 'vectors/pg', label: 'PG Vector Store' },
         { type: 'doc', id: 'vectors/pinecone', label: 'Pinecone Vector Store' },
         { type: 'doc', id: 'vectors/qdrant', label: 'Qdrant Vector Store' },
+        { type: 'doc', id: 'vectors/surrealdb', label: 'SurrealDB Vector Store' },
         { type: 'doc', id: 'vectors/turbopuffer', label: 'Turbopuffer Vector Store' },
         { type: 'doc', id: 'vectors/upstash', label: 'Upstash Vector Store' },
         { type: 'doc', id: 'vectors/weaviate', label: 'Weaviate Vector Store' },
